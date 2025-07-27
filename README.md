@@ -67,10 +67,6 @@ Structured **CSV files** were imported into Power BI, cleaned using Power Query,
 
 [📸Click to view Sales Forecasting Screenshot](https://github.com/charitha1204/Sales-Analysis/blob/main/Screenshots/image.png)
 
-
-### 🔸 Insights & Summary  
-![Insights Description](Screenshots/insights_description.png)
-
 ---
 
 ## 📎 Project File  
