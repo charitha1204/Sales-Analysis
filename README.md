@@ -75,5 +75,5 @@ The full interactive `.pbix` file can be found under the [Dashboard](./Dashboard
 ---
 
 This project demonstrates the ability to turn raw sales data into **actionable insights** using **Power BI best practices**.
-![Dashboard Demo](https://github.com/charitha1204/Sales-Analysis/blob/main/Screenshots/DashboardDemo.gif)
+
 
