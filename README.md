@@ -63,8 +63,7 @@ Structured **CSV files** were imported into Power BI, cleaned using Power Query,
 ## 📷 Dashboard Screenshots  
 
 ### 🔸 Dashboard Overview  
-([[Dashboard Preview](https://github.com/charitha1204/Sales-Analysis/blob/main/Screenshots/Dashboard.png)](https://github.com/charitha1204/Sales-Analysis/blob/main/Screenshots/Dashboard.png)
-)  
+[📸 Click to view Dashboard Screenshot](https://github.com/charitha1204/Sales-Analysis/blob/main/Screenshots/Dashboard.png)
 ![Dashboard Preview 2](Screenshots/dashboard_overview2.png)
 
 ### 🔸 Insights & Summary  
